@@ -13,6 +13,8 @@ const ClientPage = () => {
   return (
     <section>
       <h2 className="text-2xl">Welcome {session?.user?.name} on Client</h2>
+
+      
     </section>
   );
 };
